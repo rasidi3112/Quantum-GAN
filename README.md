@@ -30,5 +30,33 @@ This project implements a **Quantum Generative Adversarial Network (QGAN)** with
 
 ---
 
-## 🔹 Repository Structure
+
+---
+
+## 🔹 Installation
+
+Recommended to use **Python 3.12** and a virtual environment:
+
+```bash
+# 1. Install Python 3.12 via Homebrew
+brew install python@3.12
+
+# 2. Create virtual environment
+python3.12 -m venv venv
+source venv/bin/activate
+
+# 3. Upgrade pip
+pip install --upgrade pip
+
+# 4. Install dependencies
+pip install numpy matplotlib pennylane torch qiskit qiskit-aer
+
+# Activate virtual environment
+source venv/bin/activate
+
+# Run the QGAN
+python3 main.py
+
+results/qgan_training_summary.png
+
 
