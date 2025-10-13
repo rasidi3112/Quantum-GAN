@@ -2,6 +2,10 @@
 
 ![Quantum GAN Visualization](results/qgan_training_summary.png)
 
+# Quantum GAN: PennyLane + PyTorch
+This project implements a Quantum Generative Adversarial Network (QGAN) combining a variational quantum generator with a classical discriminator, for 2D synthetic data generation and visualization.
+
+
 ## 🔹 Project Description
 
 This project implements a **Quantum Generative Adversarial Network (QGAN)** with:
