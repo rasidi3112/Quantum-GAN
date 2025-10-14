@@ -62,5 +62,5 @@ source venv/bin/activate
 python3 main.py
 
 results/qgan_training_summary.png
-
+😊🫰
 
