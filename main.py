@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+
 """
 Quantum GAN – Variational quantum generator (PennyLane) + classical discriminator (PyTorch)
 Visualisasi dan inference tambahan menggunakan Qiskit Aer simulator.
