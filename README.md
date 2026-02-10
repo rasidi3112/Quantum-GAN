@@ -6,7 +6,7 @@
 This project implements a Quantum Generative Adversarial Network (QGAN) combining a variational quantum generator with a classical discriminator, for 2D synthetic data generation and visualization.
 
 
-## 🔹 Project Description
+##  Project Description
 
 This project implements a **Quantum Generative Adversarial Network (QGAN)** with:
 - **Quantum Generator**: using **Variational Quantum Circuit (VQC)** via **PennyLane**  
@@ -18,11 +18,11 @@ This project implements a **Quantum Generative Adversarial Network (QGAN)** with
 3. Provide visualization and training loss analysis.  
 4. Demonstrate potential of **Quantum GANs** for physics simulations, biological data, and synthetic datasets.
 
-> 🔬 The project also supports **Qiskit Aer**, enabling quantum expectation inference and noise simulation.
+>  The project also supports **Qiskit Aer**, enabling quantum expectation inference and noise simulation.
 
 ---
 
-## 🔹 Key Features
+##  Key Features
 
 - Quantum generator using **PennyLane QNode**  
 - Simple yet effective classical discriminator  
@@ -37,7 +37,7 @@ This project implements a **Quantum Generative Adversarial Network (QGAN)** with
 
 ---
 
-## 🔹 Installation
+##  Installation
 
 Recommended to use **Python 3.12** and a virtual environment:
 
