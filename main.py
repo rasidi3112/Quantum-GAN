@@ -1,4 +1,7 @@
 
+# Copyright (c) 2025-2026 Ahmad-Rasidi
+# SPDX-License-Identifier: MIT
+
 """
 Quantum GAN – Variational quantum generator (PennyLane) + classical discriminator (PyTorch)
 Visualisasi dan inference tambahan menggunakan Qiskit Aer simulator.
